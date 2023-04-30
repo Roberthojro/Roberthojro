@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hola 👋! Mi nombre es Robertho Rodriguez y soy un programador Back-End  de Perú</h2>
 
 ###
 
@@ -43,10 +43,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/https://open.spotify.com/user/hant.rj">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-  </a>
-</div>
+
 
 ###
