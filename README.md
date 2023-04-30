@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roberthojro&label=Profile%20views&color=0e75b6&style=flat" alt="roberthojro" /> </p>
 
-- 🔭 I’m currently working on [Emissary](https://emissary.mx)
+- 🔭 Actualmente estoy trabajando en [Emissary](https://emissary.mx)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 Actualmente estoy aprendiendo **Angular**
 
 ###
 
