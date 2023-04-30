@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👯 I’m looking to collaborate on [Croop](https://croop.mx)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
