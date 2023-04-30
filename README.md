@@ -16,7 +16,7 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languajes y Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" width="42" alt="dot-net logo"  />
@@ -42,7 +42,7 @@
 </div>
 
 ###
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contáctame:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/roberthorodriguez/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
