@@ -13,8 +13,6 @@
 
 ###
 
-
-
 # 💻 Languajes y Tools:
 
 <div align="left">
