@@ -15,8 +15,8 @@
 
 
 
-# 💻 Tech Stack:
-<h3 align="left">Languajes y Tools:</h3>
+# 💻 Languajes y Tools:
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" width="42" alt="dot-net logo"  />
